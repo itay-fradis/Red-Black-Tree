@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/check3.dir/utilities/RBUtilities.c.o CMakeFiles/check3.dir/Structs.c.o CMakeFiles/check3.dir/testsmaor.c.o  -o check3.exe -Wl,--out-implib,libcheck3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
