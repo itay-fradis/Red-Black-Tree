@@ -1,2 +1,0 @@
-270520 - running with --log-cli-level=DEBUG outputs detailed log of test, might help to find segfault cases
-240520 - Changing PRINT_PLOT_URL prints the plot url on error
